@@ -1,1 +1,1 @@
-# CURD-contact-management-app
+# CRUD-contact-management-app
